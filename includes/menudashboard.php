@@ -28,6 +28,9 @@
           <li class="nav-item" id="">
             <a class="nav-link" href="">Meus Anuncios</a>
           </li>
+          <li class="nav-item" id="">
+            <a class="nav-link" href="">Sair</a>
+          </li>
           <li class="nav-item">
             <a class="nav-link" href="perfil.php"><img src="img/perfil.jpg" alt="..." class="rounded-circle" width="30" height="30"></a>
           </li>

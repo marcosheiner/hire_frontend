@@ -92,4 +92,10 @@
 
     </div><!--container-->
 
+    <footer>
+        <div class="container">
+          <p style="color: aliceblue;">Hire.</p>
+        </div>
+    </footer>
+
 <?php include'includes/footerdashboard.php';?>

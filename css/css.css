@@ -212,3 +212,11 @@ footer{
     border-radius: 10px;
     width: 150px;
 }
+
+/*btns*/
+.btn-editar{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+}
